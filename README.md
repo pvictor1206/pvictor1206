@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### About me
+I am studying in computer engineering, in the future I want to specialize in Deep Learning. My favorite language at the moment is Python, in addition to being passionate about science fiction films, I make theories about the origin of the universe in my spare time. I am in the general organization part of the DSC-IFCE (Developer Student Clubs), I hope to evolve and mature over the course of graduation.
+
+
+
+
 <!--
 **pvictor1206/pvictor1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
