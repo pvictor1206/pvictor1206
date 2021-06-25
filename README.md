@@ -3,7 +3,7 @@
 #### About me
 🔭 I am currently focusing on mobile and web development. In addition to being passionate about science fiction films, in my spare time I make theories about the origin of the universe. I am in the general organization being part of the DSC-IFCE (Developer Student Clubs), I hope to evolve and mature over the course of graduation.
 
-![Paulo Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Paulo Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
