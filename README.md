@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+![Group 1](https://github.com/pvictor1206/pvictor1206/blob/main/Group%201.png?raw=true)
+
 #### About me
 🔭 I am currently focusing on mobile and web development. In addition to being passionate about science fiction films, in my spare time I make theories about the origin of the universe. I am in the general organization being part of the DSC-IFCE (Developer Student Clubs), I hope to evolve and mature over the course of graduation.
 
-![Paulo Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Paulo Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvictor1206&show_icons=true&theme=radical)
 
 
 
