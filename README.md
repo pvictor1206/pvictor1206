@@ -24,7 +24,7 @@
     
 
     
-  <img align="right" src="https://c.tenor.com/pbZqKIX54dUAAAAC/cute-anime.gif">
+  <img align="right" src="http://25.media.tumblr.com/64873877b1c0dc64e0e7c3dde32d8dac/tumblr_mg7cpl8atX1qce7tgo1_500.gif" height="200">
 </div>
   
    ##
